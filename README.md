@@ -9,9 +9,13 @@ By segmenting their consumers into Low, Mid, and High value segments, I will hel
 
 
 # Methodology
--Cleaning the data by deleting necessary rows or/and columns, getting the relevant insights, and representing the data set using the most effective visualization charts
--Group the data into Recency, Frequency and Monetary clusters by deploying the KMeans Clustering algorithm and creating a new DataFrame to host the new columns generated.
--Interpret the results of analysis and proffer business strageties and recommendations tailored to increased revenue and ROI.
+1. Cleaning the data by deleting necessary rows or/and columns, getting the relevant insights, and representing the data set using the most effective visualization charts.
+
+
+2. Group the data into Recency, Frequency and Monetary clusters by deploying the KMeans Clustering algorithm and creating a new DataFrame to host the new columns generated.
+
+
+3. Interpret the results of analysis and proffer business strageties and recommendations tailored to increased revenue and ROI.
 
 
 # Data Cleaning & EDA
