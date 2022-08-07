@@ -3,7 +3,7 @@ The more effectively we understand our customers, the more likely it is that we 
 This Readme section is to walk you through my codes and processes and will be useful to Data Analysts and Scientist. For For the Stakeholder's report and insights, check the Stakeholders Report PDF or watch the presentation https://www.canva.com/design/DAFIO0lN758/MR_jKf-fQXgfbdxMxuZw5g/watch?utm_content=DAFIO0lN758&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
-The is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail was used for this analysis.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+The transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail was used for this analysis.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 Segmenting their client base into categories that, among other things, reflect their purchasing power and pinpointing key commercial prospects was the focus of this project.
 By segmenting their consumers into Low, Mid, and High value segments, I will help them target their customers effectively and maintain customer acquisition and retention, i.e. avoid higher churn rate. This data set was provided by a UK-based and registered non-store online retailer.
 
