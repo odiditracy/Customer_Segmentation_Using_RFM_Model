@@ -28,7 +28,7 @@ I then used boxplots, bar plots, histograms, box plots, and heatmaps to visualiz
 
 # Deploying the KMeans  Model
 5 clusters were created for each metric (0,1,2,3,4) which when put together gives a overall score of 12. Using the KMeans algorithm, I fit the data for training and predicted the
- scores for reach of the metrics. I also created a function order_cluster to ensure there was a consistent order for the cluster numbers that will be the output of the KMeans prediction.
+ scores for each of the metrics. I also created a function order_cluster to ensure there was a consistent order for the cluster numbers that will be the output of the KMeans prediction.
  I went on to obtain the overall score of the cusotomers and performed some visualizattion and analysis.
  
  
